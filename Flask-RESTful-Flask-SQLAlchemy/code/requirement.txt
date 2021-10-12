@@ -1,0 +1,6 @@
+virtualenv venv --python=python3.9
+.\venv\Scripts\activate
+pip install Flask
+pip install Flask-JWT
+pip install flask-restful
+pip install Flask-SQLAlchemy
