@@ -20,10 +20,15 @@ In this project, I created many APIs using Flask, Flask-JWT, Flask-JWT-Extended,
 
 ###### Structures code:
 ---fresher: study basic python
+
 ---flask: basic api using Python
+
 ---Flask-RESTful: basic apis using flask-restful ans sqplite3
+
 ---Flask-RESTful-Flask-SQLAlchemy: enhanced apis and use SQLAlchemy to interact with database.
+
 ---Flask-JWT-Extended: enhanced apis use JWT-Extended to replace Flask-JWT
+
 ---deploy: privated - git/flask-stores-rest-api
 
 ###### Requirements: find in each folder
