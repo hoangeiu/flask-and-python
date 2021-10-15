@@ -27,4 +27,4 @@ In this project, I created many APIs using Flask, Flask-JWT, Flask-JWT-Extended,
 ---deploy: privated - git/flask-stores-rest-api
 
 ###### Requirements: find in each folder
-###### Postman collection apis: 12671449-e2e59d2d-5f34-476f-8195-dd6d610595cc
+###### Postman collection apis: `12671449-e2e59d2d-5f34-476f-8195-dd6d610595cc`
